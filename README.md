@@ -66,5 +66,5 @@ Problèmes courants
 Mémoire insuffisante : Essayez de réduire la taille des lots avec --batch-size.
 Erreurs ou bugs : Consultez les logs dans le dossier logs/.
 ## Support
-Pour toute question ou suggestion, ouvrez une issue ou contactez-moi à email@example.com.
+Pour toute question ou suggestion, ouvrez une issue ou contactez-moi à mariemamagour317@gmail.com.
 
